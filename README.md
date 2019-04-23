@@ -7,4 +7,4 @@ Wu, J., Sun, Y., Wang, M., Liu, M. (2019)
          Submitted to IEEE Trans. Instrum. Meas.
          
 # Code
-The MATLAB codes can be downloaded on [https://github.com/zarathustr/hand_eye_SO4][https://github.com/zarathustr/hand_eye_SO4]
+The MATLAB codes can be downloaded on https://github.com/zarathustr/hand_eye_SO4
