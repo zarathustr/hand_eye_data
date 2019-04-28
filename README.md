@@ -11,3 +11,6 @@ Wu, J., Sun, Y., Wang, M., Liu, M. (2019)
          
 # Code
 The MATLAB codes can be downloaded on https://github.com/zarathustr/hand_eye_SO4
+
+# Video
+https://youtu.be/vr78pEbBn2w
