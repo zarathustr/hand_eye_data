@@ -1,8 +1,9 @@
 # The hand-eye calibration data
 This data corresponds to the Case 1 in the following reference.
 
-# Contributor
+# Contributors
 Dr. Yuxiang Sun http://eeyxsun.people.ust.hk/
+
 Mr. Jin Wu http://www.jinwu.science
 
 # Usage
